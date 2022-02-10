@@ -3,3 +3,11 @@
 - Set of LED icons for desktop applications
 - Size: 400x400px 
 - Format: .png
+## Use
+This simple blinking LED is a QLabel with a specific background. By default blinking rate is 100ms and color is GREEN.
+- Add .png resources to your qt.
+- Create led object.
+- Use setLabel(QLabel* LED) with the QLabel pointer that you would like to use as a LED.
+- Connect the corresponding signals from your Qt program to LED slots.
+
+
