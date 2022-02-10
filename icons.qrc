@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../ICONS/LED_BLUE_FRAME_OFF.png</file>
+        <file>../../ICONS/LED_BLUE_FRAME_ON.png</file>
+        <file>../../ICONS/LED_GREEN_FRAME_OFF.png</file>
+        <file>../../ICONS/LED_GREEN_FRAME_ON.png</file>
+        <file>../../ICONS/LED_ORANGE_FRAME_OFF.png</file>
+        <file>../../ICONS/LED_ORANGE_FRAME_ON.png</file>
+        <file>../../ICONS/LED_RED_FRAME_OFF.png</file>
+        <file>../../ICONS/LED_RED_FRAME_ON.png</file>
+    </qresource>
+</RCC>
